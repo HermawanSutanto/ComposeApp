@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListCompose</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_hero">Cari Game</string>
+    <string name="menu_home">home</string>
+    <string name="menu_about">About</string>
+    <string name="about">About</string>
+
+</resources>
